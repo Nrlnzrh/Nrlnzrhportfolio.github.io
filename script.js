@@ -15,8 +15,8 @@ document.getElementById("dropdownMenu").onchange = function() {
   document.addEventListener('DOMContentLoaded', function() {
   document.getElementById('downloadButton').addEventListener('click', function() {
     // Replace 'path/to/your/resume.pdf' with the actual path to your resume file
-    var fileUrl = 'Resume.pdf';
-    var fileName = 'Resume.pdf';
+    var fileUrl = 'Resume_New.pdf';
+    var fileName = 'Resume_New.pdf';
 
     // Create an anchor element
     var link = document.createElement('a');
